@@ -16,7 +16,7 @@ phone: (977) 9860790767
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 20
+tiles-count: 30
 
 # social settings
 500px_url:
@@ -155,11 +155,16 @@ skills:
       - Eager to Learn
       - Working in/as a team
       - Adaptability.
+
 trainings:
   - title: StartUp Weekend Women
     featured_date: 16 February 2018 - 18 February 2018
     image: assets/images/Startup-Glocal-Khabar.jpg
     description: Participated and worked on a Startup Idea as a team for continuous 72 hours.
+  - title: SPSS Training
+    featured_date: 16 February 2018 - 18 February 2018
+    image: assets/images/IBM-SPSS-Statistics-logo.png
+    description: Learned basic SPSS data analysis tools.
 
 # education list
 education:
@@ -179,6 +184,14 @@ education:
     completion_date: 2007
     major: 'Computer Science & Maths'
 
+# Languages list
+languages:
+  - name: Nepali (Native)
+    link: 'https://en.wikipedia.org/wiki/Nepali_language'
+  - name: English
+    link: ''
+  - name: Newari (Mother Tongue)
+    link: 'https://en.wikipedia.org/wiki/Newar_language'
 
 # build settings
 markdown: kramdown
