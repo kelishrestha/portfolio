@@ -53,6 +53,43 @@ show_tile: false
                   </a>
                 </span>
               </div>
+              <div class="4u">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@glenncarstenspeters?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Glenn Carstens-Peters">
+                    <img src="assets/images/skills.jpg" alt="" />
+                  </a>
+                </span>
+              </div>
+              <div class="4u$">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@dustinlee?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Dustin Lee">
+                    <img src="assets/images/experience.jpg" alt="" />
+                  </a>
+                </span>
+              </div>
+              <!-- Break -->
+              <div class="4u">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@tirzavandijk?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Tirza van Dijk">
+                    <img src="assets/images/thepeachfall.jpg" alt="" />
+                  </a>
+                </span>
+              </div>
+              <div class="4u">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@raquelraclette?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from raquel raclette">
+                    <img src="assets/images/thesoretransition.jpg" alt="" />
+                  </a>
+                </span>
+              </div>
             </div>
           </div>
         </div>
