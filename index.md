@@ -1,11 +1,11 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Forty'
+landing-title: 'Hi, my name is Kelina'
 description: null
 image: null
-author: null
+author: Kelina Shrestha
 show_tile: false
 ---
 
-Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.
+Senior Software Engineer with a demonstrated history of working in the information technology and services industry with both remote and on-site experience. Skilled in Ruby on Rails, Javascript, Agile Methodologies, RSpec, and Application Programming Interfaces, both front-end and back-end. Strong engineering professional with a Bachelor's Degree focused in Computer Engineering from Khwopa Engineering College.
