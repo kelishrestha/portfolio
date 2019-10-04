@@ -4,7 +4,7 @@ title: Kelina
 subtitle: Shrestha
 email: kelishrestha97@gmail.com
 description: "Self-motivated, dedicated and organized software engineer<br> pursuing professional experience in technology <br>with an aim to solve problems with technology."
-baseurl: "/kelina-shrestha" # the subpath of your site, e.g. /blog
+baseurl: "/portfolio" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author: Kelina Shrestha
 street_address: Gatthaghar
