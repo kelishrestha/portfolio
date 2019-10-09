@@ -115,6 +115,7 @@
 	<script src="{{ "assets/js/jquery.scrollex.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/skel.min.js" | absolute_url }}"></script>
 	<script src="{{ "assets/js/util.js" | absolute_url }}"></script>
+	<script src="{{ "assets/js/sweetalert.all.min.8.18.1.js" | absolute_url }}"></script>
 	<!--[if lte IE 8]><script src="{{ "assets/js/ie/respond.min.js" | absolute_url }}"></script><![endif]-->
 	<script src="{{ "assets/js/main.js" | absolute_url }}"></script>
 	<script type="text/javascript">
@@ -122,6 +123,8 @@
 			document.getElementById('contact-form').addEventListener('submit', function(event) {
 				event.preventDefault();
 				emailjs.sendForm('portfolio_gmail', 'template_KqL2PrMB', this);
+				this.reset();
+				Swal.fire("Your message is received!", "Thanks for connecting!", "success");
 			});
 		}
 	</script>
