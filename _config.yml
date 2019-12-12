@@ -40,7 +40,7 @@ experiences:
     works:
       - 'Develop rapid application features, stabilize and manage application codes independently.'
       - 'Manage, develop and document API driven applications to provide better flexibility and visibility to team.'
-      - 'Manage servers and deployments of the applications.'
+      - 'Manage deployments of the applications in staging environment.'
       - 'Collaborate remotely with team members across US, Canada and India to efficiently deliver Kanban-sprint hybrid style product life cycle development features.'
       - 'Integrating google based services into platform for better functionality and reporting.'
   - title: Product Manager
@@ -55,7 +55,7 @@ experiences:
       - 'Train new engineering team on Rails, GIT, Ruby, Product Development Life Cycle and management facilities.'
       - 'Supervise and manage team from both product and development perspective.'
   - title: Software Engineer
-    company: WhiteHat Engineering
+    company: Codessy Web Nepal
     duration: July 2017 - Oct 2017
     works:
       - 'Maintain complete product flow in React based web application.'
@@ -130,6 +130,7 @@ skills:
       - MySQL
       - Redux
       - Amazon S3
+      - Google Firebase
   - category: Project Management Tools
     names:
       - HoneyBadger

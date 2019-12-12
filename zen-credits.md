@@ -90,6 +90,15 @@ show_tile: false
                   </a>
                 </span>
               </div>
+              <div class="4u$">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@dondaskalodesign?utm_medium=referral&amp;utm_campaign=photographer-credit&amp;utm_content=creditBadge"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Don Daskalo">
+                    <img src="assets/images/integrate_fontawesome_in_rails_6.jpg" alt="" />
+                  </a>
+                </span>
+              </div>
             </div>
           </div>
         </div>

@@ -3,9 +3,9 @@ layout: allposts
 title: All posts
 landing-title: 'All posts'
 nav-menu: true
-description: null
-image: null
-author: null
+description: My Blog Posts
+image: assets/images/blog.jpg
+author: Kelina Shrestha
 show_tile: false
 ---
 

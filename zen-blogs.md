@@ -3,7 +3,7 @@ layout: allposts
 title: Blog
 landing-title: 'All posts'
 nav-menu: true
-description: 'my blog posts'
+description: My Blog Posts
 image: assets/images/blog.jpg
 author: Kelina Shrestha
 ---
