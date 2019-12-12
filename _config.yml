@@ -42,7 +42,11 @@ experiences:
       - 'Manage, develop and document API driven applications to provide better flexibility and visibility to team.'
       - 'Manage deployments of the applications in staging environment.'
       - 'Collaborate remotely with team members across US, Canada and India to efficiently deliver Kanban-sprint hybrid style product life cycle development features.'
-      - 'Integrating google based services into platform for better functionality and reporting.'
+      - 'Integrating third party services into platform for better functionality and reporting.'
+      - 'Creating microservices in the platform to expand and segregate features with alignment to business values.'
+      - 'Design, develop new features in API and web application to be integrated according to business needs.'
+      - 'Stabilize API with multiple dependent application requests and responses.'
+      - 'Handle releases documentation from the development side.'
   - title: Product Manager
     company: BazaarFactory
     duration: July 2017 - Present
