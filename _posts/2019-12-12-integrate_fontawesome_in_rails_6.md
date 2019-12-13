@@ -3,7 +3,7 @@ layout: post
 title: How to install font-awesome with yarn in Rails 6.0
 description: Integrating Font awesome 5 in Rails 6.0 via Yarn
 image: assets/images/integrate_fontawesome_in_rails_6.jpg
-published_date: 12 December 2019
+published_date: December 12, 2019
 ---
 
 <ul class="actions small">
