@@ -99,6 +99,16 @@ show_tile: false
                   </a>
                 </span>
               </div>
+              <!-- Break -->
+              <div class="4u">
+                <span class="image fit">
+                  <a href="https://unsplash.com/@mojamsanii?utm_source=unsplash&amp;utm_medium=referral&amp;utm_content=creditCopyText"
+                    target="_blank" rel="noopener noreferrer"
+                    title="Download free do whatever you want high-resolution photos from Moja Msanii">
+                    <img src="assets/images/rails_sanitization.jpeg" alt="" />
+                  </a>
+                </span>
+              </div>
             </div>
           </div>
         </div>
