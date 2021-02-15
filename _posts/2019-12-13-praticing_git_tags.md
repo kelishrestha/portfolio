@@ -7,5 +7,5 @@ published_date: December 13, 2019
 ---
 
 <ul class="actions small">
-  <li><a href="https://medium.com/@kelishrestha97/practicing-stability-with-git-tag-77b21e22db43" class="button special fit icon fa-book">Read in Medium</a></li>
+  <li><a href="https://kelishrestha.medium.com/practicing-stability-with-git-tag-77b21e22db43" class="button special fit icon fa-book">Read in Medium</a></li>
 </ul>
